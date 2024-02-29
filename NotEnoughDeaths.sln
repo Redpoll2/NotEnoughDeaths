@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotEnoughDeaths", "NotEnoughDeaths\NotEnoughDeaths.csproj", "{08E6F1DE-609E-4C7A-BF67-54F9ADE13E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotEnoughLibrary", "NotEnoughLibrary\NotEnoughLibrary.csproj", "{FFF405ED-FC52-47D1-8A9A-5AF9D5CE1B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E6F1DE-609E-4C7A-BF67-54F9ADE13E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E6F1DE-609E-4C7A-BF67-54F9ADE13E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E6F1DE-609E-4C7A-BF67-54F9ADE13E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E6F1DE-609E-4C7A-BF67-54F9ADE13E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF405ED-FC52-47D1-8A9A-5AF9D5CE1B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF405ED-FC52-47D1-8A9A-5AF9D5CE1B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF405ED-FC52-47D1-8A9A-5AF9D5CE1B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF405ED-FC52-47D1-8A9A-5AF9D5CE1B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEB6B13-57E8-48F8-90C6-48414C2D1FCB}
+	EndGlobalSection
+EndGlobal
